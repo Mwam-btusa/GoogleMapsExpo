@@ -1,0 +1,20 @@
+chave de api google cloud
+
+google cloud
+
+chave de api google cloud
+AIzaSyAoyddD8DpOe_-icx-rk69Px6K8fa_nXnY
+
+
+npx create-expo-app GoogleMapsExpo --template
+
+cd GoogleMapsExpo
+
+npx create-expo-app my-maps-app
+cd my-maps-app
+
+
+npx expo install react-native-maps
+
+
+editando o arquivo app.jason
