@@ -1,4 +1,4 @@
-chave de api google cloud
+
 
 google cloud
 
