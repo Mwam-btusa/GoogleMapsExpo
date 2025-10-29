@@ -2,8 +2,7 @@ chave de api google cloud
 
 google cloud
 
-chave de api google cloud
-AIzaSyAoyddD8DpOe_-icx-rk69Px6K8fa_nXnY
+
 
 
 npx create-expo-app GoogleMapsExpo --template
